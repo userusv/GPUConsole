@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=GPUConsole
+Comment=NVIDIA GPU monitoring dashboard
+Exec=gpuconsole
+Icon=gpuconsole
+Terminal=false
+Categories=System;Monitor;HardwareSettings;
+StartupNotify=true
+StartupWMClass=gpuconsole
